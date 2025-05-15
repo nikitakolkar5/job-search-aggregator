@@ -33,4 +33,3 @@ A React + Vite web application that aggregates job listings from multiple job bo
 - Integration with more job platforms
 
 ---
-
